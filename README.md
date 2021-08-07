@@ -1,12 +1,36 @@
-QToasty.js
-==========
+<div align="center" id="top"> 
+  <img src="./.github/estarquesa-toasty.png" alt="QToasty - André Estarquesa Toasty" />
 
-Mortal Kombat classic Toasty guy easter egg for web pages in pure javascript.
+  &#xa0;
 
-<img src="https://quintao.ninja/QToasty/dan.png" alt="toasty_guy" width="65"/>
+  <!-- <a href="https://qtoasty.netlify.app">Demo</a> -->
+</div>
 
-Demo: https://raphaelquintao.github.io/QToasty/
+<h1 align="center">Andre Estarquesa QToasty</h1>
 
+<p align="center">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/fabramosdev/qtoasty?color=56BEB8">
+
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/fabramosdev/qtoasty?color=56BEB8">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/fabramosdev/qtoasty?color=56BEB8">
+
+  <img alt="License" src="https://img.shields.io/github/license/fabramosdev/qtoasty?color=56BEB8">
+
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/fabramosdev/qtoasty?color=56BEB8" /> -->
+
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/fabramosdev/qtoasty?color=56BEB8" /> -->
+
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/fabramosdev/qtoasty?color=56BEB8" /> -->
+</p>
+
+<!-- Status -->
+
+<!-- <h4 align="center"> 
+	🚧  QToasty 🚀 Under construction...  🚧
+</h4> 
+
+<hr> -->
 
 ## Usage
 
@@ -169,3 +193,26 @@ open bracket | 219
 back slash | 220
 close braket | 221
 single quote | 222
+
+<br>
+
+## :dart: About ##
+
+[PT-BR]
+O Clássico toasty do Mortal Kombat numa versão André Estarquesa, a felina do povão!
+
+[EN-US]
+The classic toasty Mortal Kombat in a version of André Estarquesa, the feline of the populace!
+
+OBS: Este é um fork do projeto original de [Raphael Quintão](https://github.com/raphaelquintao/QToasty)
+
+```bash
+# Clone this project
+$ git clone https://github.com/fabramosdev/qtoasty
+
+
+Made with :heart: by <a href="https://github.com/fabramosdev" target="_blank">Fabiano Ramos</a>
+
+&#xa0;
+
+<a href="#top">Back to top</a>
