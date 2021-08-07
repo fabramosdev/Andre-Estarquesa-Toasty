@@ -32,6 +32,22 @@
 
 <hr> -->
 
+## :dart: About ##
+
+[PT-BR]
+O Clássico toasty do Mortal Kombat numa versão André Estarquesa, a felina do povão!
+
+[EN-US]
+The classic toasty Mortal Kombat in a version of André Estarquesa, the feline of the populace!
+
+OBS: Este é um fork do projeto original de [Raphael Quintão](https://github.com/raphaelquintao/QToasty)
+
+```bash
+# Clone this project
+$ git clone https://github.com/fabramosdev/qtoasty
+
+```
+
 ## Usage
 
 #### Adding QToasty.js to you website
@@ -196,21 +212,6 @@ single quote | 222
 
 <br>
 
-## :dart: About ##
-
-[PT-BR]
-O Clássico toasty do Mortal Kombat numa versão André Estarquesa, a felina do povão!
-
-[EN-US]
-The classic toasty Mortal Kombat in a version of André Estarquesa, the feline of the populace!
-
-OBS: Este é um fork do projeto original de [Raphael Quintão](https://github.com/raphaelquintao/QToasty)
-
-```bash
-# Clone this project
-$ git clone https://github.com/fabramosdev/qtoasty
-
-```
 
 Made with :heart: by <a href="https://github.com/fabramosdev" target="_blank">Fabiano Ramos</a>
 
