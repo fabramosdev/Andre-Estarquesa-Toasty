@@ -210,6 +210,7 @@ OBS: Este é um fork do projeto original de [Raphael Quintão](https://github.co
 # Clone this project
 $ git clone https://github.com/fabramosdev/qtoasty
 
+```
 
 Made with :heart: by <a href="https://github.com/fabramosdev" target="_blank">Fabiano Ramos</a>
 
