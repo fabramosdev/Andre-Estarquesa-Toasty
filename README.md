@@ -9,19 +9,19 @@
 <h1 align="center">Andre Estarquesa QToasty</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/fabramosdev/qtoasty?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/fabramosdev/Andre-Estarquesa-Toasty?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/fabramosdev/qtoasty?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/fabramosdev/Andre-Estarquesa-Toasty?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/fabramosdev/qtoasty?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/fabramosdev/Andre-Estarquesa-Toasty?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/fabramosdev/qtoasty?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/fabramosdev/Andre-Estarquesa-Toasty?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/fabramosdev/qtoasty?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/fabramosdev/Andre-Estarquesa-Toasty?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/fabramosdev/qtoasty?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/fabramosdev/Andre-Estarquesa-Toasty?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/fabramosdev/qtoasty?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/fabramosdev/Andre-Estarquesa-Toasty?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
@@ -44,7 +44,7 @@ OBS: Este é um fork do projeto original de [Raphael Quintão](https://github.co
 
 ```bash
 # Clone this project
-$ git clone https://github.com/fabramosdev/qtoasty
+$ git clone https://github.com/fabramosdev/Andre-Estarquesa-Toasty
 
 ```
 
@@ -54,9 +54,9 @@ $ git clone https://github.com/fabramosdev/qtoasty
 
 ```html
 <head>
-    <script src="https://raw.githubusercontent.com/raphaelquintao/QToasty/master/qtoasty.js" type="text/javascript"></script>
+    <script src="https://raw.githubusercontent.com/fabramosdev/Andre-Estarquesa-Toasty/master/qtoasty.js" type="text/javascript"></script>
     // or
-    <script src="https://raphaelquintao.github.io/QToasty/qtoasty.js" type="text/javascript"></script>
+    <script src="https://fabramosdev.github.io/Andre-Estarquesa-Toasty/qtoasty.js" type="text/javascript"></script>
 </head>
 ```
 #### For the key code version
